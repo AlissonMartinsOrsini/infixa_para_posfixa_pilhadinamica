@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1599411417 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504244 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.h
+
+1599428238 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599411417 source:e:\notebook\fagoc\2022-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504244 e:\notebook\fagoc\2022-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.h
+
+1599428238 source:e:\notebook\fagoc\2022-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1663955158 source:d:\perfil\alisson.orsini\downloads\62b533c1e5c1a1632d914e31b35da396\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1663953385 d:\perfil\alisson.orsini\downloads\62b533c1e5c1a1632d914e31b35da396\pilhadinamica\pilha.h
+
+1663955610 source:d:\perfil\alisson.orsini\downloads\62b533c1e5c1a1632d914e31b35da396\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1664141649 source:c:\users\alisson\desktop\pilhadinamica\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	<string.h>
+
+1664137062 c:\users\alisson\desktop\pilhadinamica\pilhadinamica\pilha.h
+
+1664137062 source:c:\users\alisson\desktop\pilhadinamica\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1664219540 source:e:\pilhadinamica\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	<string.h>
+
+1664200036 e:\pilhadinamica\pilhadinamica\pilha.h
+
+1664218271 source:e:\pilhadinamica\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
